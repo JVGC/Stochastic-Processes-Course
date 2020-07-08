@@ -1,2 +1,2 @@
 # Stochastic-Processes-Course
-Stochastic Processes Course from University of São Paulo
+This repository refers to the codes done for the Stochastic Processes Course (code: SME0121).
